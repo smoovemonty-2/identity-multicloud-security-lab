@@ -1,0 +1,5 @@
+CLIENT_ID=replace-with-application-client-id
+TENANT_ID=replace-with-directory-tenant-id
+CLIENT_SECRET=replace-with-short-lived-lab-secret-value
+FLASK_SECRET_KEY=replace-with-random-32-byte-hex-secret
+REDIRECT_URI=http://localhost:3000/auth/redirect
