@@ -1,7 +1,0 @@
-.env
-.venv/
-.session_cache/
-flask_session/
-__pycache__/
-*.pyc
-.pytest_cache/
