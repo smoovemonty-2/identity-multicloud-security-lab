@@ -18,3 +18,4 @@ exceptions-*.csv
 .env
 .env.*
 !.env.example
+session-02-sso/README.md
