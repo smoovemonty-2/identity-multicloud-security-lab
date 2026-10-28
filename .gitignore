@@ -29,3 +29,13 @@ azure-audit-*.json
 azure-audit-*.csv
 multicloud-audit-*.json
 multicloud-audit-*.csv
+
+# Terraform generated files and private inputs
+**/.terraform/
+**/*.tfstate
+**/*.tfstate.*
+**/*.tfplan
+**/*.private.hcl
+**/*.tfvars
+**/*.tfvars.json
+crash.log
