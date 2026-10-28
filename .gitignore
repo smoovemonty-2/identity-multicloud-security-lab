@@ -19,3 +19,13 @@ exceptions-*.csv
 .env.*
 !.env.example
 session-02-sso/README.md
+
+session5-security-reports/
+
+# Raw cloud audit reports
+aws-audit-*.json
+aws-audit-*.csv
+azure-audit-*.json
+azure-audit-*.csv
+multicloud-audit-*.json
+multicloud-audit-*.csv

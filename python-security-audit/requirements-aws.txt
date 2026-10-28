@@ -1,0 +1,2 @@
+# AWS Python audit
+boto3==1.43.120
